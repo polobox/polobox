@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @polobox
+- 👋 Hi, I’m polobox
 - 👀 I’m interested in Electronic Music
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on everyone
